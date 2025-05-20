@@ -35,5 +35,50 @@ This portfolio serves as a powerful tool for personal branding, job applications
 
 ---
 
-## 🗂 Project Structure
+## 📦 Dependencies
+Below are the required Python packages listed in requirements.txt:
+
+ini
+Copy
+Edit
+Flask==2.3.3
+WTForms==3.0.1
+Flask-SQLAlchemy==3.1.1
+Flask-Mail==0.9.1
+email-validator==2.0.0.post2
+Pillow==10.0.0
+Install them using:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+
+
+## 🚀 Future Improvements
+## ✍️ Blog Section
+
+## 🧑‍💻 Admin Dashboard
+
+## 📊 Analytics Dashboard
+
+☁️ Deployment to platforms like Heroku, Render, or Vercel
+
+## 🤝 Contributing
+Feel free to fork this repo and submit pull requests. Suggestions and improvements are welcome!
+
+Steps:
+
+Fork the repository
+
+Create a new branch (git checkout -b feature/your-feature)
+
+Commit your changes (git commit -m 'Add feature')
+
+Push to the branch (git push origin feature/your-feature)
+
+Open a pull request
+
+## 📃 License
+This project is licensed under the MIT License.
 
